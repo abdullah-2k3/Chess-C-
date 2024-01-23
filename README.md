@@ -1,4 +1,4 @@
-# Chess-C-
+# Chess-C++
 Chess game developed in C++<br>
 
 <h2>Description</h2>
